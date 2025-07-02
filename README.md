@@ -7,7 +7,7 @@
 
 ## About Me
 
--  **Name**: Reina Matsushima
+-  **Name**: Reina
 -  **Gender**: -
 -  **Current Role** -
 ---
