@@ -7,9 +7,10 @@
 
 ## About Me
 
--  **Name**: Reina
+-  **Name**: Bernn
 -  **Gender**: -
 -  **Current Role** -
+-  **Age**: 17yo
 ---
 
 ## GitHub Stats
